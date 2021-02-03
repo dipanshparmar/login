@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Swipee</string>
+    <string name="heading">Log In</string>
+    <string name="username_hint">Username or Email address</string>
+    <string name="pass_hint">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="logged_in_msg">You are logged in successfully</string>
+    <string name="log_out">Log Out</string>
+</resources>
